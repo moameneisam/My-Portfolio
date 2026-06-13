@@ -87,7 +87,7 @@ const Projects = () => {
                 <div className="card-body p-0 d-flex flex-column flex-grow-1">
                   <h4 className="card-title fw-bold mb-2 text-body">{proj.title}</h4>
                   
-                  <p className="card-text text-body-secondary fs-6 lh-lg mb-4 flex-grow-1" style={{ textAlign: 'justify' }}>
+                  <p className="card-text text-body-secondary fs-6 lh-lg mb-4 flex-grow-1">
                     {proj.desc}
                   </p>
                   
