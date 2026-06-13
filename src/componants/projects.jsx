@@ -15,24 +15,24 @@ const Projects = () => {
 
   const portfolioProjects = [
     {
-      title: "Mo-Clinic System",
-      desc: "نظام متكامل لإدارة العيادات الطبية، مصمم لتسهيل عمليات حجز المواعيد وتنظيم وإدارة بيانات المرضى بكفاءة عالية مع واجهة مستخدم تفاعلية وعصرية.",
+      title: "Clinic System",
+      desc: "A comprehensive system for managing medical clinics, designed to facilitate appointment booking, patient data organization, and efficient clinic management with a modern, interactive user interface.",
       link: "https://mo-clinicsystem.netlify.app",
-      tags: ["HTML", "CSS", "JS", "Bootstrap"],
+      tags: ["HTML", "CSS", "JS"],
       image: clinicImg
     },
     {
       title: "Yala Sharm",
-      desc: "منصة سياحية متكاملة مخصصة لاستعراض وتصفح الرحلات والأنشطة الترفيهية والسياحية في مدينة شرم الشيخ بتجربة مستخدم سلسة وجذابة.",
+      desc: "A comprehensive tourism platform dedicated to browsing and exploring tourist and recreational trips and activities in the city of Sharm El Sheikh with a smooth and attractive user experience.",
       link: "https://moamen-yala-sharm-184c67.netlify.app",
       tags: ["HTML", "CSS", "JS", "Bootstrap"],
       image: yalaImg
     },
     {
       title: "V1 Portfolio",
-      desc: "الإصدار الأول والأساسي من معرض أعمالي الشخصي، قمت بتطويره باستخدام React لعرض المهارات والمشاريع المنجزة بشكل مبسط.",
+      desc: "The first and basic version of my personal portfolio, which I developed using React to display my skills and completed projects in a simplified manner.",
       link: "https://moamenessam-profile-dev.netlify.app",
-      tags: ["React", "CSS"],
+      tags: ["HTML", "CSS", "JS", "Bootstrap"],
       image: v1Img
     }
   ];
